@@ -1,0 +1,14 @@
+{
+  "name": "uploadFile",
+  "version": "1.0.0",
+  "description": "Upload Files",
+  "main": "index.js",
+  "repository": "https://github.com/eps364/uploadFiles.git",
+  "author": "Emerson Pereira da Silva <pereiradasilva.emerson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
